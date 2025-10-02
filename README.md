@@ -1,6 +1,5 @@
 This repository contains three projects applying data mining techniques to CGM (Continuous Glucose Monitoring) and insulin datasets.
 
-Projects:
 Extracting Time Series Project
     Goal: Extract several performance metrics of an Artificial Pancreas system from
     sensor data. Process raw CGM and Insulin data to extract time-series features.  
